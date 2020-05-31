@@ -17,14 +17,23 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of `go` an `fortune`.
 
-## Runnig gology
+## Installing gology
 
-To run gology, follow these steps:
+To install gology, follow these steps:
 
 ```bash
 git clone --recursive https://github.com/2kabhishek/gology
 cd gology
-./gology
+./setup.sh
+```
+
+## Running gology
+
+To use gology, follow these steps:
+
+```bash
+USAGE:
+    gology
 ```
 
 ### More Info
