@@ -6,3 +6,7 @@
 	path = goatsay
 	url = git@github.com:2kabhishek/goatsay.git
 	branch = master
+[submodule "goldog"]
+	path = goldog
+	url = git@github.com:2kabhishek/goldog.git
+	branch = master
