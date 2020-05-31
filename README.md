@@ -9,36 +9,24 @@
 ![Contributors](https://img.shields.io/github/contributors/2kabhishek/gology?style=plastic&color=ff69b4&label=Contributors)
 ![Followers](https://img.shields.io/github/followers/2kabhishek?style=plastic&color=blue&label=Followers)
 
-gology is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+gology is tthe combination of three CLI toys written in go goodluck - fortune clone, goatsay - cowsay clone, goldog - lolcat clone.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `go` an `fortune`.
 
-## Installing gology
+## Runnig gology
 
-To install gology, follow these steps:
+To run gology, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/gology
+git clone --recursive https://github.com/2kabhishek/gology
 cd gology
-<install_command>
-```
-
-## Using gology
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description. Options are: a, b. [default: a]
-
+./gology
 ```
 
 ### More Info
+
+Be sure to check the component's Readme for more info.
