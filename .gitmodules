@@ -2,3 +2,7 @@
 	path = goodluck
 	url = git@github.com:2kabhishek/goodluck.git
 	branch = master
+[submodule "goatsay"]
+	path = goatsay
+	url = git@github.com:2kabhishek/goatsay.git
+	branch = master
