@@ -1,0 +1,4 @@
+[submodule "goodluck"]
+	path = goodluck
+	url = git@github.com:2kabhishek/goodluck.git
+	branch = master
