@@ -1,5 +1,3 @@
-<div align="center">
-
 # gology
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/gology?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,6 @@
 
 gology is the combination of three CLI toys written in go goodluck - fortune clone, goatsay - cowsay clone, goldog - lolcat clone.
 
-</div>
 
 
 ## Prerequisites
@@ -39,7 +36,6 @@ To use gology, follow these steps:
 USAGE:
     gology
 ```
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
 ### More Info
 
