@@ -10,8 +10,6 @@
 
 gology is the combination of three CLI toys written in go goodluck - fortune clone, goatsay - cowsay clone, goldog - lolcat clone.
 
-
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -40,4 +38,3 @@ USAGE:
 ### More Info
 
 Be sure to check the component's Readme for more info.
-
