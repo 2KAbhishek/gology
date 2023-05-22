@@ -54,5 +54,4 @@ USAGE:
 Be sure to check the component's Readme for more info.
 
 This is a test
-ano
 
