@@ -11,6 +11,6 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         required: 2
         wip: true
-        target-branch: staging
+        target-branch: main
         label: Changes in staging
         color: 8989FF
