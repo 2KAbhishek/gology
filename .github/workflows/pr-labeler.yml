@@ -9,8 +9,8 @@ jobs:
     - uses: 2KAbhishek/gh-pr-labeler@main
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        required: 2
+        required: 3
         wip: true
         target-branch: main
-        label: Changes in staging
+        label: Changes in main
         color: 8989FF
