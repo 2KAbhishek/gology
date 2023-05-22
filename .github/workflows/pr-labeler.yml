@@ -2,11 +2,11 @@ name: PR Labeler
 on: [pull_request, pull_request_review]
 
 jobs:
-  labelPRs:
+  label:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: 2KAbhishek/gh-pr-labeler@main
+    - uses: 2KAbhishek/gh-pr-labeler/dist@main
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         required: 2
